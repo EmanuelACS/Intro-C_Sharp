@@ -1,0 +1,9 @@
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\bin\Debug\Global Pizza Shop.exe.config
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\bin\Debug\Global Pizza Shop.exe
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\bin\Debug\Global Pizza Shop.pdb
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\obj\Debug\Global Pizza Shop.csprojResolveAssemblyReference.cache
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\obj\Debug\Global_Pizza_Shop.Form1.resources
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\obj\Debug\Global_Pizza_Shop.Properties.Resources.resources
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\obj\Debug\Global Pizza Shop.csproj.GenerateResource.Cache
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\obj\Debug\Global Pizza Shop.exe
+c:\users\emanuel-d\documents\visual studio 2013\Projects\Global Pizza Shop\Global Pizza Shop\obj\Debug\Global Pizza Shop.pdb

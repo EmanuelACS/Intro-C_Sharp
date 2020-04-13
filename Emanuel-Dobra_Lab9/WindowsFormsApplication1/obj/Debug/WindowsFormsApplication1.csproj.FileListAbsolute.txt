@@ -1,0 +1,12 @@
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\16478\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\16478\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\16478\Documents\Visual Studio 2013\Projects\Emanuel-Dobra_Lab9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\16478\Documents\Visual Studio 2013\Projects\Emanuel-Dobra_Lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\16478\Documents\Visual Studio 2013\Projects\Emanuel-Dobra_Lab9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
