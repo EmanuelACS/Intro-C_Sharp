@@ -1,4 +1,4 @@
-# Intro-C_Sharp
+# C# Introduction Course
 
 *Start Date: Januray 22, 2020*
 
